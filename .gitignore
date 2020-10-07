@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.h5
+day1/.ipynb_checkpoints
+day2/.ipynb_checkpoints
+day2/MNIST_data
+day3/.ipynb_checkpoints
+day3/flower_photos
+day3/*.tar.gz
+day3/*.gz

@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pillow
+tf-nightly
+tensorflow==2.2.0
